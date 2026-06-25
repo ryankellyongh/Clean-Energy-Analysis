@@ -119,27 +119,17 @@ Hydroelectric: R² ≈ 0.122
 
 ## Repository Structure
 
-**Code**
-
 ├── data/
-
 │   └── epa_03_01_a_cleaned.xlsx
-
 ├── figures/
-
 │   ├── histograms/
-
 │   ├── boxplots/
-
 │   ├── time_series/
-
 │   ├── lag_plots/
-
 │   └── arima_forecast/
-
 ├── Clean Energy Analysis.Rmd
-
 └── README.md
+
 
 How to Run the Analysis
 
