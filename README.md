@@ -140,7 +140,7 @@ Clean Energy Analysis.Rmd
 README.md
 
 
-How to Run the Analysis
+## How to Run the Analysis
 
 Install required R packages:
 
@@ -155,8 +155,6 @@ install.packages(c(
 Open Clean Energy Analysis.Rmd in RStudio.
 
 Ensure the dataset is located at:
-
-**Code**
 
 data/epa_03_01_a_cleaned.xlsx
 
