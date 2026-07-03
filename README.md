@@ -1,7 +1,7 @@
 # Clean-Energy-Analysis
 
-This project analyzes annual U.S. energy generation by source from 2014 to 2024 using data imported from the U.S. Energy Information Administration (EIA).”
-“The purpose of this analysis is to examine how major energy sources have changed over time, compare fossil fuel and renewable energy patterns, and evaluate whether there are clear linear trends.
+This project analyzes annual U.S. energy generation by source from 2014 to 2024 using data imported from the U.S. Energy Information Administration (EIA).
+The purpose of this analysis is to examine how major energy sources have changed over time, compare fossil fuel and renewable energy patterns, and evaluate whether there are clear linear trends.
 
 ## Project Overview
 This repository contains an analytical study of U.S. energy generation trends from 2014–2024.
